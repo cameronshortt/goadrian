@@ -1,0 +1,9 @@
+[kyle]
+config = 'kyle.cfg'
+printer = '/dev/ttyAMA0'
+webcam = '/dev/v4l2/by-name/X'
+
+[marco]
+config = 'marco.cfg'
+printer = '/dev/ttyAMA1'
+webcam = '/dev/v4l2/by-name/Y'
